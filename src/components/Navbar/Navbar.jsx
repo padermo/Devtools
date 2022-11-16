@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function Navbar() {
   return (
     <div className='container-navbar'>
-      <div className="container-interno-navbar">
+      <div className="container-navbar-interno">
         <Link to={'/'} className='link'>
           <label><span>A</span>bout</label>
         </Link>

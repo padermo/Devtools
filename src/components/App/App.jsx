@@ -5,6 +5,7 @@ import Footer from '../Footer/Footer';
 import About from '../About/About';
 import Document from '../Document/Document';
 import Resources from '../Resources/Resources';
+import '../../utils/css/style.css'
 
 function App() {
   return (

@@ -1,0 +1,22 @@
+.container-socialnetwork{
+  padding: 4px 0 0 0;
+  &-interno{
+    display: flex;
+    align-items: center;
+    margin: 2px 0;
+    a, label, img{
+      cursor: pointer;
+    }
+    a {
+      text-decoration: none;
+      color: color('primary');
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    img {
+      width: 18px;
+      height: 18px;
+    }
+  }
+}

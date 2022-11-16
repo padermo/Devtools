@@ -38,7 +38,7 @@ function Document() {
   useEffect(() => {
     setViewData(
       Data.map(e => (
-        <div key={e.id}>
+        <div key={e.id} className='view-data'>
           <h3>{e.name}</h3>
           <a href={e.url}>Ir a pagina.</a>
         </div>
@@ -47,8 +47,8 @@ function Document() {
   },[])
 
   return (
-    <div className='container-document'>
-      <div className="container-interno-document">
+    <div className='container-info'>
+      <div className="container-info-interno">
         {viewData}
       </div>
     </div>

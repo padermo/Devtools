@@ -4,14 +4,10 @@ import SocialNetwork from '../Socialnetwork/SocialNetwork'
 function Footer() {
   return (
     <div className='container-footer'>
-      <div className="container-interno-footer">
+      <div className="container-footer-interno">
         <div>
           <label>Redes Sociales</label>
-          <div>
-            <SocialNetwork name={'linkedin'} />
-            <SocialNetwork name={'github'} />
-            <SocialNetwork name={'instagram'} />
-          </div>
+          <SocialNetwork/>
         </div>
         <div>
           <label>2022</label>
