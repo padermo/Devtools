@@ -5,7 +5,7 @@ function About() {
     <div className='container-about'>
       <div className="container-about-interno">
         <div className='about'>
-          <h2><span>¿</span>Quiene Somos<span>?</span></h2>
+          <h2><span>¿</span>Quienes Somos<span>?</span></h2>
           <p>Hola, mi nombre es Fabio Estevez y soy desarrollador web full stack el cual busca compartir recursos de utilidad sobre este entorno para que puedas utilizarlos en tus actuales o futuros proyectos.</p>
         </div>
         <div className='about'>
