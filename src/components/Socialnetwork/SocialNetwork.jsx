@@ -28,7 +28,7 @@ function SocialNetwork() {
     setViewData(
       images.map(e => (
         <div key={e.name} className='container-socialnetwork-interno'>
-          <a href={e.url}>
+          <a href={e.url} target='_blank' rel='noreferrer'> 
             <label>{e.name}</label>
             <img src={e.img} alt={`Imagen de ${e.name}`} />
           </a>

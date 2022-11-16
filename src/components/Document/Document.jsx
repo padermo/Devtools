@@ -40,7 +40,7 @@ function Document() {
       Data.map(e => (
         <div key={e.id} className='view-data'>
           <h3>{e.name}</h3>
-          <a href={e.url}>Ir a pagina.</a>
+          <a href={e.url} target='_blank' rel='noreferrer'>Ir a pagina.</a>
         </div>
       ))
     )
