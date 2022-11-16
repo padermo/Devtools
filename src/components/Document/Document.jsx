@@ -31,6 +31,26 @@ function Document() {
       id: "6D",
       name: "Node JS",
       url: "https://nodejs.org/en/docs/"
+    },
+    {
+      id: "7D",
+      name: "Express",
+      url: "https://expressjs.com/"
+    },
+    {
+      id: "8D",
+      name: "MySQL",
+      url: "https://dev.mysql.com/doc/"
+    },
+    {
+      id: "9D",
+      name: "PostgreSQL",
+      url: "https://www.postgresql.org/docs/"
+    },
+    {
+      id: "10D",
+      name: "Git",
+      url: "https://git-scm.com/docs"
     }
   ];
   const [viewData, setViewData] = useState();
