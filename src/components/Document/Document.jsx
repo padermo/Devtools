@@ -51,6 +51,11 @@ function Document() {
       id: "10D",
       name: "Git",
       url: "https://git-scm.com/docs"
+    },
+    {
+      id: "11D",
+      name: "Sass",
+      url: "https://sass-lang.com/documentation/"
     }
   ];
   const [viewData, setViewData] = useState();
