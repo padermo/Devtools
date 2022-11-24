@@ -52,6 +52,16 @@ function Resources() {
       name: "CSS matic",
       url: "https://www.cssmatic.com/"
     },
+    {
+      id: "11R",
+      name: "Color Code",
+      url: "https://htmlcolorcodes.com/es/nombres-de-los-colores/"
+    },
+    {
+      id: "12R",
+      name: "Specificity",
+      url: "https://specificity.keegan.st/"
+    }
   ];
 
   const [viewData, setViewData] = useState();
