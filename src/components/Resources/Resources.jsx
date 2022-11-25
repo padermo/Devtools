@@ -77,6 +77,26 @@ function Resources() {
       name: "Remove Bg",
       url: "https://www.remove.bg/es"
     },
+    {
+      id: "16R",
+      name: "Toptal",
+      url: "https://www.toptal.com/designers/subtlepatterns/"
+    },
+    {
+      id: "17R",
+      name: "Flatiucolors",
+      url: "https://flatuicolors.com/"
+    },
+    {
+      id: "18R",
+      name: "Boxicons",
+      url: "https://boxicons.com/"
+    },
+    {
+      id: "19R",
+      name: "Webgradients",
+      url: "https://webgradients.com/"
+    },
   ];
 
   const [viewData, setViewData] = useState();
