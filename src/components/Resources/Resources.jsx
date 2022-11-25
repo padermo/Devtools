@@ -29,7 +29,7 @@ function Resources() {
     },
     {
       id: "6R",
-      name: "CSS generator",
+      name: "CSS Generator",
       url: "https://cssgenerator.org/"
     },
     {
@@ -49,7 +49,7 @@ function Resources() {
     },
     {
       id: "10R",
-      name: "CSS matic",
+      name: "CSS Matic",
       url: "https://www.cssmatic.com/"
     },
     {
@@ -61,7 +61,22 @@ function Resources() {
       id: "12R",
       name: "Specificity",
       url: "https://specificity.keegan.st/"
-    }
+    },
+    {
+      id: "13R",
+      name: "Unsplash",
+      url: "https://unsplash.com/es"
+    },
+    {
+      id: "14R",
+      name: "Canva Generator",
+      url: "https://www.canva.com/colors/color-palette-generator/"
+    },
+    {
+      id: "15R",
+      name: "Remove Bg",
+      url: "https://www.remove.bg/es"
+    },
   ];
 
   const [viewData, setViewData] = useState();
