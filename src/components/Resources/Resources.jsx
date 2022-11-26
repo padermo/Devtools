@@ -97,6 +97,11 @@ function Resources() {
       name: "Webgradients",
       url: "https://webgradients.com/"
     },
+    {
+      id: "20R",
+      name: "Smooth",
+      url: "https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections"
+    },
   ];
 
   const [viewData, setViewData] = useState();
