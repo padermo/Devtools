@@ -102,6 +102,21 @@ function Resources() {
       name: "Smooth",
       url: "https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections"
     },
+    {
+      id: "21R",
+      name: "Can I Use",
+      url: "https://caniuse.com/"
+    },
+    {
+      id: "22R",
+      name: "Undraw",
+      url: "https://undraw.co/illustrations"
+    },
+    {
+      id: "23R",
+      name: "Normalize.css",
+      url: "https://necolas.github.io/normalize.css/"
+    },
   ];
 
   const [viewData, setViewData] = useState();
