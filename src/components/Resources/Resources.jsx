@@ -117,6 +117,11 @@ function Resources() {
       name: "Normalize.css",
       url: "https://necolas.github.io/normalize.css/"
     },
+    {
+      id: "24R",
+      name: "SVGporn",
+      url: "https://svgporn.com/"
+    },
   ];
 
   const [viewData, setViewData] = useState();
