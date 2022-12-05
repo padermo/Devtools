@@ -56,7 +56,12 @@ function Document() {
       id: "11D",
       name: "Sass",
       url: "https://sass-lang.com/documentation/"
-    }
+    },
+    {
+      id: "12D",
+      name: "CSS Tricks",
+      url: "https://css-tricks.com/guides/"
+    },
   ];
   const [viewData, setViewData] = useState();
 
