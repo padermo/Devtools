@@ -122,6 +122,11 @@ function Resources() {
       name: "SVGporn",
       url: "https://svgporn.com/"
     },
+    {
+      id: "25R",
+      name: "Clippy",
+      url: "https://bennettfeely.com/clippy/"
+    },
   ];
 
   const [viewData, setViewData] = useState();
