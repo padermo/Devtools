@@ -127,6 +127,11 @@ function Resources() {
       name: "Clippy",
       url: "https://bennettfeely.com/clippy/"
     },
+    {
+      id: "26R",
+      name: "Cubic Bezier",
+      url: "https://cubic-bezier.com/#0,0,1,1"
+    },
   ];
 
   const [viewData, setViewData] = useState();
