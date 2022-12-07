@@ -67,6 +67,16 @@ function Document() {
       name: "React Router",
       url: "https://reactrouter.com/en/main"
     },
+    {
+      id: "14D",
+      name: "CSS Reference",
+      url: "https://cssreference.io/"
+    },
+    {
+      id: "15D",
+      name: "CSS Triggers",
+      url: "https://csstriggers.com/"
+    },
   ];
   const [viewData, setViewData] = useState();
 
