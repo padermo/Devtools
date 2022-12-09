@@ -132,6 +132,16 @@ function Resources() {
       name: "Cubic Bezier",
       url: "https://cubic-bezier.com/#0,0,1,1"
     },
+    {
+      id: "27R",
+      name: "Magic Pattern",
+      url: "https://www.magicpattern.design/tools/css-backgrounds"
+    },
+    {
+      id: "28R",
+      name: "CSS Gradient",
+      url: "https://cssgradient.io/"
+    },
   ];
 
   const [viewData, setViewData] = useState();
